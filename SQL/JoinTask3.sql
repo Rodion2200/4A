@@ -1,0 +1,4 @@
+SELECT  One.*
+FROM One
+LEFT JOIN Two   ON One.Id = Two.Id
+WHERE Two.Id IS NULL

@@ -1,0 +1,3 @@
+SELECT *
+FROM One
+JOIN Two ON One.Id=Two.Id

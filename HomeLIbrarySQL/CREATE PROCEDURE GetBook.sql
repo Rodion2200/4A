@@ -1,0 +1,8 @@
+CREATE PROCEDURE GetBook
+	@Id INT
+AS
+	SELECT *
+	FROM Books
+	WHERE Books.Id = @Id
+
+

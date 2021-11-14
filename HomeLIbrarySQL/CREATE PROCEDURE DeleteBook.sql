@@ -1,0 +1,5 @@
+CREATE PROCEDURE DeleteBooke
+    @Id INT
+AS
+	DELETE Books
+	WHERE Id =@Id

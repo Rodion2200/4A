@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Search_Duplicate_Algoritm/1.0.0": {
+        "runtime": {
+          "Search_Duplicate_Algoritm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search_Duplicate_Algoritm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

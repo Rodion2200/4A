@@ -1,0 +1,16 @@
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\Search_Duplicate_Algoritm.exe
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\Search_Duplicate_Algoritm.deps.json
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\Search_Duplicate_Algoritm.runtimeconfig.json
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\Search_Duplicate_Algoritm.runtimeconfig.dev.json
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\Search_Duplicate_Algoritm.dll
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\ref\Search_Duplicate_Algoritm.dll
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\bin\Debug\net5.0\Search_Duplicate_Algoritm.pdb
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.csprojAssemblyReference.cache
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.AssemblyInfoInputs.cache
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.AssemblyInfo.cs
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.dll
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\ref\Search_Duplicate_Algoritm.dll
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.pdb
+C:\Users\rjabi\source\repos\Search_Duplicate_Algoritm\Search_Duplicate_Algoritm\obj\Debug\net5.0\Search_Duplicate_Algoritm.genruntimeconfig.cache
